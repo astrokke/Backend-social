@@ -1,0 +1,6 @@
+{"timestamp":"2025-09-05T09:46:14.380Z","method":"GET","url":"/","ip":"::1","userAgent":"curl/8.5.0","statusCode":200}
+{"timestamp":"2025-09-05T12:30:24.208Z","method":"POST","url":"/auth/register","ip":"::1","userAgent":"PostmanRuntime/7.39.1","statusCode":200}
+{"timestamp":"2025-09-05T12:30:41.726Z","method":"POST","url":"/auth/register","ip":"::1","userAgent":"PostmanRuntime/7.39.1","statusCode":200}
+{"timestamp":"2025-09-05T12:31:37.818Z","method":"POST","url":"/auth/login","ip":"::1","userAgent":"PostmanRuntime/7.39.1","statusCode":200}
+{"timestamp":"2025-09-05T12:32:06.068Z","method":"POST","url":"/post","ip":"::1","userAgent":"PostmanRuntime/7.39.1","statusCode":200}
+{"timestamp":"2025-09-05T12:32:13.319Z","method":"POST","url":"/posts","ip":"::1","userAgent":"PostmanRuntime/7.39.1","statusCode":200}
